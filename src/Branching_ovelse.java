@@ -7,7 +7,7 @@ public class Branching_ovelse {
 //3
 
 System.out.println("hej med dig");
-
+System.out.println("x")
 //Master 2
 //Master 1
     }
