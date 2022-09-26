@@ -10,6 +10,7 @@ System.out.println("hej med dig");
 System.out.println("x");
 System.out.println("ja");
 System.out.println("xssa");
+System.out.println("sisiisi");
 //Master 2
 //Master 1
     }
