@@ -7,20 +7,14 @@ public class Branching_ovelse {
 //3
 
 System.out.println("hej med dig");
-System.out.println("x")
-        system.out.printl
+System.out.println("x");
+System.out.println("ja");
+System.out.println("xssa");
 //Master 2
 //Master 1
     }
 }
-
-
-
-
-System.out.println("xssa")
-
-
-
+/*
 _
         Dagens IntelliJ-tip: Pull: Ctrl+shift+k
         Diverse git:
@@ -43,3 +37,5 @@ _
 
         Hvis tid:
 Åbne projekt fra .git-mappen_                                                                                                                                                                                                                                                                                               +
+
+ */
