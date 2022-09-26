@@ -1,5 +1,5 @@
 public class Branching_ovelse {
-    public static void main(String[] args) throws ---------.throws {
+    public static void main(String[] args)  {
 
 //A1
 
